@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Table 2" max_length="40" name="x_snc_int3864816_table_2" type="collection"/>
+</database>
