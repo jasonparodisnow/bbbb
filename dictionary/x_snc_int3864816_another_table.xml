@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Another Table" max_length="40" name="x_snc_int3864816_another_table" type="collection"/>
+</database>

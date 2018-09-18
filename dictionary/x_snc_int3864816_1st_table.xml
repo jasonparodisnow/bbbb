@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="1st table" max_length="40" name="x_snc_int3864816_1st_table" type="collection"/>
 </database>
