@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="2nd branch table" language="en" table="x_snc_int3864816_2nd_branch_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>2nd branch table</label>
+            <language>en</language>
+            <name>x_snc_int3864816_2nd_branch_table</name>
+            <plural>2nd branch tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jason.parodi@snc</sys_created_by>
+            <sys_created_on>2018-09-18 13:10:26</sys_created_on>
+            <sys_id>9c8bfd7a132ce700f7f0754a6144b07a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>2nd branch table</sys_name>
+            <sys_package display_value="INT3864816" source="x_snc_int3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="INT3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_int3864816_2nd_branch_table__en</sys_update_name>
+            <sys_updated_by>jason.parodi@snc</sys_updated_by>
+            <sys_updated_on>2018-09-18 13:10:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

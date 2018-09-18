@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_int3864816_table_2">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_int3864816_2nd_branch_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -35,7 +35,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_snc_int3864816_table_2</name>
+        <name>x_snc_int3864816_2nd_branch_table</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,17 +51,17 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-17 15:57:41</sys_created_on>
-        <sys_id>120b793a132ce700f7f0754a6144b037</sys_id>
+        <sys_created_by>jason.parodi@snc</sys_created_by>
+        <sys_created_on>2018-09-18 13:10:26</sys_created_on>
+        <sys_id>dc8bfd7a132ce700f7f0754a6144b073</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_int3864816_table_2</sys_name>
+        <sys_name>x_snc_int3864816_2nd_branch_table</sys_name>
         <sys_package display_value="INT3864816" source="x_snc_int3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="INT3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_int3864816_table_2_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-09-18 13:08:23</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_int3864816_2nd_branch_table_null</sys_update_name>
+        <sys_updated_by>jason.parodi@snc</sys_updated_by>
+        <sys_updated_on>2018-09-18 13:10:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

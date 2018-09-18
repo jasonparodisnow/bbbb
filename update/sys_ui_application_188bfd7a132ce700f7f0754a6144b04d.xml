@@ -2,23 +2,23 @@
     <sys_ui_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <hint/>
-        <name>Table 2</name>
+        <name>2nd branch table</name>
         <order/>
-        <roles>x_snc_int3864816.table_2_user</roles>
+        <roles>x_snc_int3864816.2nd_branch_table_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-17 15:57:40</sys_created_on>
+        <sys_created_by>jason.parodi@snc</sys_created_by>
+        <sys_created_on>2018-09-18 13:10:25</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>98381522db28a3008f33d141ce961907</sys_id>
+        <sys_id>188bfd7a132ce700f7f0754a6144b04d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Table 2</sys_name>
+        <sys_name>2nd branch table</sys_name>
         <sys_overrides/>
         <sys_package display_value="INT3864816" source="x_snc_int3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="INT3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_scope>
-        <sys_update_name>sys_ui_application_98381522db28a3008f33d141ce961907</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-17 15:57:40</sys_updated_on>
+        <sys_update_name>sys_ui_application_188bfd7a132ce700f7f0754a6144b04d</sys_update_name>
+        <sys_updated_by>jason.parodi@snc</sys_updated_by>
+        <sys_updated_on>2018-09-18 13:10:25</sys_updated_on>
     </sys_ui_application>
 </record_update>
