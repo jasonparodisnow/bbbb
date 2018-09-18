@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_dictionary action="INSERT_OR_UPDATE" element="column_from_2nd_instance" table="x_snc_int3864816_2nd_branch_table">
         <active>true</active>
         <array>false</array>
@@ -54,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jason.parodi@snc</sys_created_by>
         <sys_created_on>2018-09-18 13:14:18</sys_created_on>
-        <sys_id>b93c7dbedb20e3008f33d141ce961905</sys_id>
+        <sys_id>febcfdba132ce700f7f0754a6144b0ec</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>column from 2nd instance</sys_name>
         <sys_package display_value="INT3864816" source="x_snc_int3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="INT3864816">c8f6d96edbe4a3008f33d141ce9619f5</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_int3864816_2nd_branch_table_column_from_2nd_instance</sys_update_name>
-        <sys_updated_by>jason.parodi@snc</sys_updated_by>
-        <sys_updated_on>2018-09-18 13:14:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-18 13:15:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

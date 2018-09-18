@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="2nd branch table" max_length="40" name="x_snc_int3864816_2nd_branch_table" type="collection">
+        <element label="column from 1st instance" max_length="40" name="column_from_1st_instance" type="string"/>
         <element label="column from 2nd instance" max_length="40" name="column_from_2nd_instance" type="string"/>
     </element>
 </database>
